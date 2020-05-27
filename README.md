@@ -1,8 +1,8 @@
 # _My First Webpage_
 
-#### _A simple web, 05.27.20_
+#### _A simple webpage // 05.27.20_
 
-#### By _**Kevin Davis**_
+#### By _**Kevin Davis, Erich Richter**_
 
 ## Description
 
